@@ -1,0 +1,73 @@
+#title{
+  color: #ccff99;
+}
+
+
+h2{
+  color: yellow;
+}
+#main{
+  font-family: arial, serif, monospace;
+  background-color: grey;
+font-size:14pt;
+  font-style: normal;
+}
+h4{
+  font-style: normal;
+}
+
+#img-div{
+  padding left=5px;
+  padding right=5px;
+  padding top =5px;
+  padding bottom = 5px;
+  width=50px;
+  height=50px;
+  text-align: center;
+}
+#img-caption{
+  font-size:10pt;
+}
+#image{
+ position= relative;
+  width=100%;
+  height=auto;
+  display= inline-block;
+  margin= 0 auto;
+}
+#tribute-info{
+  font-style: normal;
+  text-align: center;
+  font-size:11pt;
+  font-weight:150;
+}
+
+#info_note{
+font-style: normal;
+  text-align: center;
+  color:#ccff99;
+   font-weight:100;
+}
+
+#quotename{
+  text-align: center;
+font-size:11pt;
+  font-weight:100;
+
+}
+#tribute-link:hover{
+  width: 10px;
+  height: 4px;
+  colour: blue;
+  text-decoration: underline;
+  text-decoration-style: solid;
+  color:pink;
+}
+
+#footnote{
+  margin-top:20px;
+  text-align: center;
+  color: yellow;
+  font: 12pt;
+    
+}
